@@ -2,7 +2,7 @@
 
 > 不装逼的人，我们都不想认识。
 
-* [在线阅读](https://it-ebooks.apachecn.org)
+* [在线阅读](https://it-ebooks.flygon.net)
 ## 下载
 
 ### Docker
